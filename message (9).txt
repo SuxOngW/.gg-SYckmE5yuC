@@ -7,7 +7,7 @@ getgenv().Silent = {
 }
 local Image = {
     Enabled = true,
-    Url = "https://www.kindpng.com/picc/m/444-4447435_csgo-headshot-hd-png-download.png"
+    Url = "https://www.giantbomb.com/a/uploads/scale_small/1/19275/1065832-plumbob_keychain_photosculpture_p153385835534233601u7j7_400.jpg"
 }
 local Dot = {
     Enabled = true,
